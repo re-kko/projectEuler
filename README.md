@@ -1,2 +1,2 @@
 # projectEuler
-a reposityory of all my project euler problems
+a repository of all my solved and unsolved problems for project euler
